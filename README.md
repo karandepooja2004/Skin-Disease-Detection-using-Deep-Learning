@@ -30,8 +30,6 @@ It classifies skin lesion images as **Cancer (Melanoma)** or **Healthy** and pro
 
 ---
 
----
-
 ## 📊 Dataset Information
 
 - **Dataset Name:** HAM10000 – Human Against Machine with 10000 training images
